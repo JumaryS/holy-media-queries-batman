@@ -8,6 +8,7 @@
   height: 100vh;
   display: flex;
   flex-direction: column;
+  
 }
 
 #header {
@@ -30,7 +31,8 @@
 }
 
 #nav {
-  width: 20%;
+  height: 20vh ;
+  width: 100vw;
   background-color: #4b4e6d;
 }
 
